@@ -1,12 +1,11 @@
-import React from 'react'
-import MessageForm from '@/components/MessageForm'
+import MessageForm from "@/components/MessageForm";
 
 const Home = () => {
   return (
     <div>
-        <MessageForm/>
+      <MessageForm />
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
