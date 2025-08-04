@@ -12,7 +12,7 @@ export default defineConfig({
     },
   },
   base: "/Message-Delay/",
-  build: {
-    outDir: "docs",
-  },
+  // build: {
+  //   outDir: "docs",
+  // },
 });
